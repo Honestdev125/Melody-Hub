@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🎧 MelodyHub</h1>
   <p>Experience the rhythm of the world in one elegant platform.</p>
-  <a href="https://hamiparsa.github.io/Melody-Hub/">
+  <a href="https://honestdev125.github.io/Melody-Hub/">
     <img src="https://img.shields.io/badge/View_Live_Project-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </div>
@@ -101,7 +101,7 @@ Users can browse artists, explore genres, and dive into the rhythm of music with
 
 ## 🧑‍💻 Author
 
-**Developed by:** [HamiParsa](https://github.com/HamiParsa)  
+**Developed by:** [Niku Namada](https://github.com/honestdev125)  
 💬 Passionate Front-End Developer | Building creative web experiences  
 
 ---
